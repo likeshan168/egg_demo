@@ -28,4 +28,5 @@ exports.robot = {
 
 exports.logger = {
     consoleLevel: 'DEBUG',
+    dir:'mylogs/egg_demo'
 };
